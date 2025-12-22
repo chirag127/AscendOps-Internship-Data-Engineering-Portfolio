@@ -1,0 +1,13 @@
+# .github/badges.yml
+# This file is used to configure the badges that are displayed in the README.md file.
+
+badges:
+  - name: "License"
+    shield: "License-CC%20BY--NC%204.0-lightgrey"
+    url: "https://creativecommons.org/licenses/by-nc/4.0/"
+  - name: "Python Version"
+    shield: "python-3.9%2B-blue"
+    url: "https://www.python.org/downloads/"
+  - name: "Code Style"
+    shield: "code%20style-black-000000"
+    url: "https://github.com/psf/black"
